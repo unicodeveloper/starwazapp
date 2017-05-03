@@ -32,7 +32,7 @@ if (isset($_REQUEST['logout'])) {
 ?>
 <html>
     <head>
-        <script src="http://code.jquery.com/jquery-3.0.0.min.js" type="text/javascript"></script>
+        <script src="https://code.jquery.com/jquery-3.0.0.min.js" type="text/javascript"></script>
         <script src="https://cdn.auth0.com/js/lock/10.0/lock.min.js"></script>
 
         <script type="text/javascript" src="//use.typekit.net/iws6ohy.js"></script>

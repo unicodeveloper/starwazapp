@@ -65,7 +65,7 @@ if (isset($_REQUEST['logout'])) {
               <?php if(!$userInfo): ?>
               <div class="login-box auth0-box before">
                 <img src="https://cdn.auth0.com/blog/app/star_warsapp.png" />
-                <p>Star Wars - The Awakening!</p>
+                <p>Star Wars - The Awakening</p>
                 <a class="btn btn-primary btn-login">SignIn</a>
               </div>
               <?php else: ?>
